@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1778
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Branchwisemigrationdemo", "Branchwisemigrationdemo\Branchwisemigrationdemo.csproj", "{0F32160C-133A-4FAD-B3A5-452FE2CB3220}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Branchwisemigrationdemo.Tests", "Branchwisemigrationdemo.Tests\Branchwisemigrationdemo.Tests.csproj", "{3FE24948-14F6-45F9-BD3C-BA971C4349C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F32160C-133A-4FAD-B3A5-452FE2CB3220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F32160C-133A-4FAD-B3A5-452FE2CB3220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F32160C-133A-4FAD-B3A5-452FE2CB3220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F32160C-133A-4FAD-B3A5-452FE2CB3220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FE24948-14F6-45F9-BD3C-BA971C4349C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE24948-14F6-45F9-BD3C-BA971C4349C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE24948-14F6-45F9-BD3C-BA971C4349C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE24948-14F6-45F9-BD3C-BA971C4349C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {695FA558-A802-4801-91EB-A86E400896E9}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs17-trng:8080/tfs/alm
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Branchwisemigrationdemo.Tests\\Branchwisemigrationdemo.Tests.csproj
+		SccProjectName1 = Branchwisemigrationdemo.Tests
+		SccLocalPath1 = Branchwisemigrationdemo.Tests
+		SccProjectUniqueName2 = Branchwisemigrationdemo\\Branchwisemigrationdemo.csproj
+		SccProjectName2 = Branchwisemigrationdemo
+		SccLocalPath2 = Branchwisemigrationdemo
+	EndGlobalSection
+EndGlobal
